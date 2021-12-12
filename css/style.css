@@ -81,6 +81,9 @@ body {
 .home-image path:hover {
     opacity: 1;
 }
+path.current-floor {
+    opacity: 1;
+}
 .counter-group {
     display: flex;
     flex-direction: column;
@@ -106,7 +109,7 @@ body {
     font-family: 'Bebas Neue', sans-serif;
     color: #635854;
     font-size: 124px;
-    margin-top: 10px;
+  /* margin-top: 10px; /* отключить, чтобы выровнять отступ верхней стрелки. В видео делали, чтобы выровнять, у меня и без него норм */ 
 }
 .button-primary {
     background: #3596F5;
