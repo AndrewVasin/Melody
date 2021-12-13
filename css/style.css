@@ -19,7 +19,7 @@ body {
     border-bottom: 4px solid #3596F5;
 }
 .logo {
-    vertical-align: -webkit-baseline-middle;
+    vertical-align: middle;
 }
 .navbar {
     max-width: 1280px;
