@@ -3,3 +3,4 @@
 ## Tech stack
 - html
 - css
+- js
